@@ -72,7 +72,7 @@ class BusinessCardApp extends StatelessWidget {
                         flex: 1,
                       ),
                       Text(
-                        '(+963) 935 483 700',
+                        '(+963) 123 456 789',
                         style: TextStyle(
                           fontSize: 20,
                         ),
